@@ -1,6 +1,6 @@
 # Spark
 
-This is an individual repository, prepping for *Practical Data Science with Hadoop and Spark* ([하둡과 스파크를 활용한 실용 데이터 과학](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791160502213&orderClick=JAj)), 1e. I added my own files and excercise codes. 
+This is an individual repository prepped for *Practical Data Science with Hadoop and Spark* ([하둡과 스파크를 활용한 실용 데이터 과학](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791160502213&orderClick=JAj)), 1e. I added my own files and excercise code. 
 
 하둡과 스파크를 활용한 실용 데이터 과학
 
